@@ -1,4 +1,4 @@
-# PrivacyPolicy
-°³ÀÎÁ¤º¸Ã³¸®¹æÄ§
+#PrivacyPolicy
+ê°œì¸ì •ë³´ì²˜ë¦¬ë°©ì¹¨
 
-Á¦ÁÖ ºÐ¸®¼ö°Å ¾Ë¶÷ÀÇ °³ÀÎÁ¤º¸Ã³¸®¹æÄ§¿¡ ´ëÇØ È®ÀÎÇÏ½Ã·Á¸é Garbage_Privacy¸¦ È®ÀÎÇÏ¼¼¿ä
+ì œì£¼ ë¶„ë¦¬ìˆ˜ê±° ì•ŒëžŒì˜ ê°œì¸ì •ë³´ì²˜ë¦¬ë°©ì¹¨ì— ëŒ€í•´ í™•ì¸í•˜ì‹œë ¤ë©´ Garbage_Privacyë¥¼ í™•ì¸í•˜ì„¸ìš”
