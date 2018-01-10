@@ -1,0 +1,4 @@
+# PrivacyPolicy
+개인정보처리방침
+
+제주 분리수거 알람의 개인정보처리방침에 대해 확인하시려면 Garbage_Privacy를 확인하세요
